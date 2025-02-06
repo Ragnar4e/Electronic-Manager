@@ -1,0 +1,4 @@
+Payment Date,Company,Employee,Building,Apartment,Amount,Due Date,Status
+2024-01-15,City Management Ltd,John Smith,10 Vitosha Street,101,150.00,2024-02-01,PAID
+2024-01-20,City Management Ltd,John Smith,10 Vitosha Street,201,150.00,2024-02-01,PAID
+2024-01-25,City Management Ltd,John Smith,15 Hristo Botev Blvd,102,140.00,2024-02-01,PAID
